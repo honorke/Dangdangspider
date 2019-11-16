@@ -4,6 +4,7 @@
 #
 # See documentation in:
 # https://docs.scrapy.org/en/latest/topics/spider-middleware.html
+#git test
 
 from scrapy import signals
 
